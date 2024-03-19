@@ -29,12 +29,10 @@
         ],
         "login" : [
             {
-                "Id": 1,
                 "Email": "Jorge",
                 "Contrasena": "Mouse"
             },
             {
-                "Id": 2,
                 "Email": "Luis",
                 "Contrasena": "Monitor"
             }
