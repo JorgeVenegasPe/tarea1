@@ -26,5 +26,17 @@
                 "Precio" : "160.00"
             }
 
+        ],
+        "Login" : [
+            {
+                "Id": 1,
+                "Email": "Jorge",
+                "Contraseña": "Mouse"
+            },
+            {
+                "Id": 2,
+                "Email": "Luis",
+                "Contraseña": "Monitor"
+            }
         ]
     }
