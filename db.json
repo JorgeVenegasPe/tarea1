@@ -31,12 +31,12 @@
             {
                 "Id": 1,
                 "Email": "Jorge",
-                "Contraseña": "Mouse"
+                "Contrasena": "Mouse"
             },
             {
                 "Id": 2,
                 "Email": "Luis",
-                "Contraseña": "Monitor"
+                "Contrasena": "Monitor"
             }
         ]
     }
