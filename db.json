@@ -3,27 +3,32 @@
             {
                 "Id": 1,
                 "Descripcion": "Mouse",
-                "Precio" : "30.00"
+                "Precio" : "30.00",
+                "URL" : "https://www.shutterstock.com/image-photo/computer-mouse-on-white-background-260nw-119624326.jpg"
             },
             {
                 "Id": 2,
                 "Descripcion": "Monitor",
-                "Precio" : "130.00"
+                "Precio" : "130.00",
+                "URL" : "https://img.freepik.com/foto-gratis/tv-pantalla-ancha_144627-12166.jpg"
             },
             {
                 "Id": 3,
                 "Descripcion": "Teclado",
-                "Precio" : "60.00"
+                "Precio" : "60.00",
+                "URL" : "https://www.shutterstock.com/image-vector/vector-white-pc-keyboard-very-260nw-1043422234.jpg"
             },
             {
                 "Id": 4,
                 "Descripcion": "Pc",
-                "Precio" : "2260.00"
+                "Precio" : "2260.00",
+                "URL" : "https://www.shutterstock.com/image-photo/computer-mouse-on-white-background-260nw-119624326.jpg"
             },
             {
                 "Id": 5,
                 "Descripcion": "TarjetaGrafica",
-                "Precio" : "160.00"
+                "Precio" : "160.00",
+                "URL" : "https://i.blogs.es/5a8f2b/tarjetasgraficasap/1366_2000.jpg"
             }
 
         ],
